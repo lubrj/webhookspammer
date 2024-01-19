@@ -1,4 +1,4 @@
-# use
+# useage
 
 - test or spamm a single webhook or multiple webhooks
 
