@@ -13,7 +13,9 @@ how to use it:
 8. watch it do does its job
 
 how to install it:
+
 linux/termux:
+
 -install git: "pip install git"
 
 -install python3: "pip install python3"
@@ -27,4 +29,5 @@ linux/termux:
 -run it: "python3 webhookspammer.py"
 
 disclaimer:
+
 this tool is for testing and demonstration purposes only pls do NOT abuse this tool
