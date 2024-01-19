@@ -1,8 +1,10 @@
 use: 
-  test or spamm a single webhook or multiple webhooks
+
+test or spamm a single webhook or multiple webhooks
 
 
 how to use it:
+
 1. type how many webhooks you want to test/spamm
    
 2. enter your webhooks
@@ -17,19 +19,20 @@ how to use it:
 how to install it:
 
 linux/termux:
-  -install git: "pip install git"
 
-  -install python3: "pip install python3"
+-install git: "pip install git"
 
-  -clone the reposit: "git clone https://github.com/lubrj/webhookspammer"
+-install python3: "pip install python3"
 
-  -go in the directory: "cd webhookspammer"
+-clone the reposit: "git clone https://github.com/lubrj/webhookspammer"
 
-  -install requirements: "pip install requirements.txt"
+-go in the directory: "cd webhookspammer"
 
-  -run it: "python3 webhookspammer.py"
+-install requirements: "pip install requirements.txt"
+
+-run it: "python3 webhookspammer.py"
 
 
 disclaimer:
 
-  this tool is for testing and demonstration purposes only pls do NOT abuse this tool
+this tool is for testing and demonstration purposes only pls do NOT abuse this tool
