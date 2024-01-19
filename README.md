@@ -30,7 +30,7 @@ linux/termux:
 
 -go in the directory: "cd webhookspammer"
 
--install requirements: "pip install requirements"
+-install requirements: "pip install requirements.txt"
 
 -run it: "python3 webhookspammer.py"
 
