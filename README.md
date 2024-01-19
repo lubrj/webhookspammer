@@ -1,4 +1,4 @@
-# useage
+# about the tool
 
 - test or spamm a single webhook or multiple webhooks
 
