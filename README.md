@@ -1,10 +1,10 @@
-#use
+# use
 
 test or spamm a single webhook or multiple webhooks
 
 
 
-#how to use it
+# how to use it
 
 1. type how many webhooks you want to test/spamm
    
@@ -18,7 +18,7 @@ test or spamm a single webhook or multiple webhooks
 
 
 
-#how to install it
+# how to install it
 
 linux/termux:
 
@@ -36,6 +36,6 @@ linux/termux:
 
 
 
----disclaimer---
+# disclaimer
 
 this tool is for testing and demonstration purposes only pls do NOT abuse this tool
