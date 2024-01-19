@@ -1,5 +1,4 @@
 from dhooks import Webhook
-import time
 
 webhooks = []
 count=1
