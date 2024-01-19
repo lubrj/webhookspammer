@@ -17,7 +17,6 @@ how to use it:
 how to install it:
 
 linux/termux:
-
   -install git: "pip install git"
 
   -install python3: "pip install python3"
