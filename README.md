@@ -3,7 +3,6 @@
 - test or spamm a single webhook or multiple webhooks
 
 
-
 # how to use it
 
 - type how many webhooks you want to test/spamm
