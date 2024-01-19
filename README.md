@@ -21,17 +21,17 @@
 
 ---linux/termux---
 
-- install git: "pip install git"
+- install git: ```pip install git```
 
-- install python3: "pip install python3"
+- install python3: ```pip install python3```
 
-- clone the reposit: "git clone https://github.com/lubrj/webhookspammer"
+- clone the reposit: ```git clone https://github.com/lubrj/webhookspammer```
 
-- go in the directory: "cd webhookspammer"
+- go in the directory: ```cd webhookspammer```
 
-- install requirements: "pip install -r requirements.txt"
+- install requirements: ```pip install -r requirements.txt```
 
-- run it: "python3 webhookspammer.py"
+- run it: ```python3 webhookspammer.py```
 
 
 
