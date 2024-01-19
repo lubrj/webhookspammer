@@ -30,7 +30,7 @@
 
 - go in the directory: "cd webhookspammer"
 
-- install requirements: "pip install requirements.txt"
+- install requirements: "pip install -r requirements.txt"
 
 - run it: "python3 webhookspammer.py"
 
