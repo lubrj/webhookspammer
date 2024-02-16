@@ -31,7 +31,9 @@ times = int(input("how many massages: "))
 
 while times>=count:
     webhooks[webhooknuber].send(massage)
-    print("Sent.")
+    print("Sent_")
+    print("    |--webhook:",webhooknuber+1)
+    print("    |--massage number:",count)
     count=count+1
     webhooknuber=webhooknuber+1
     if webhooknuber==webhookcounts:
