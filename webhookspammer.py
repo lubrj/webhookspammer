@@ -1,9 +1,12 @@
 from dhooks import Webhook
+import os
 
 webhooks = []
 count=1
 anzahl=1
 webhooknuber = 0
+
+os.system("CLS")
 
 print("""
                _     _                 _                                                  
